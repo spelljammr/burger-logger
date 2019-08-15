@@ -4,6 +4,7 @@
   "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
   "main": "index.js",
   "scripts": {
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
