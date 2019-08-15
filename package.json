@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/eat-da-burger.git"
+    "url": "git+https://github.com/ahydorn/burger-logger.git"
   },
   "keywords": [
     "burgers",
     "eating",
     "burgerfi"
   ],
-  "author": "Anna D Derbakova",
+  "author": "Adam Hydorn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/eat-da-burger/issues"
+    "url": "https://github.com/ahydorn/burger-logger/issues"
   },
-  "homepage": "https://github.com/angrbrd/eat-da-burger#readme",
+  "homepage": "https://github.com/angrbrd/burger-logger#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
