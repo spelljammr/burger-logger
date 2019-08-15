@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/ahydorn/burger-logger/issues"
   },
-  "homepage": "https://github.com/angrbrd/burger-logger#readme",
+  "homepage": "https://github.com/ahydorn/burger-logger#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
